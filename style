@@ -1,0 +1,30 @@
+.login{
+    height: 250px;
+    width: 250px;
+    margin: 5% 50px 100px 35%;
+    border: 100px #091acc solid;
+    padding: 80px;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.login input {
+    padding: 10px;
+    margin: 5px;
+    border-radius: 7px;
+    background-color: lightblue;
+
+}
+
+.h {
+    text-align: center;
+    color: blue;
+}
+
+h2 {
+    text-align: center;
+}
+
+body {
+    background-color: lightblue;
+}
